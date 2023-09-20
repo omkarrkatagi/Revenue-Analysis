@@ -1,4 +1,4 @@
-# Revenue-Analysis
+# Revenue Analysis
 This is a Power BI Report for financial data of a company for 3 years, which was obtained from an online source. It is an automated end-to-end project that combines the excel file attachments from Outlook emails. In this project the monthly sales datasets sent via email are combined and a comprehensive dataset is created. This dataset is used to analyse and generate the financial report.
 
 - Using Power Query the data was compiled to form a combined dataset.
